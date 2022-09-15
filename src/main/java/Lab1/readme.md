@@ -1,3 +1,3 @@
 Elena Poeltuijn
 20939207
-![alt text](/Lab1/screenshot.png)
+![alt text](./Lab1/screenshot.png)
